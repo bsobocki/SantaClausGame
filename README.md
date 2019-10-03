@@ -3,7 +3,7 @@ A simple platform game wrote in Java Course at University of Wroclaw
 
 ---  
 ## Table of contents
-- (A bit about the game)[#a-bit-about-the-game) 
+### [A bit about the game](#a-bit-about-the-game) 
 
 ## A bit about the game
 It's Christmas time. Who loves this special time? Kids, of course!  
