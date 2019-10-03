@@ -30,7 +30,7 @@ Aftter sleeping kids are looking around them.
 4. You can teleport from the right board edge to the left one, from the left one to the rigt one and analogously the top edge and bottom.
 
 ## Technology
-Language: Java
+Language: Java  
 Library: Swing
 
 ## How it works
