@@ -1,5 +1,5 @@
 # <img src=https://github.com/bsobocki/SantaClausGame/blob/master/santa.png/> Santa Claus Game <img src=https://github.com/bsobocki/SantaClausGame/blob/master/santa.png/>
-A simple platform game wrote in Java Course at University of Wroclaw  
+A simple platform game wrote on Java Course at University of Wroclaw  
 
 ---  
 ## Table of contents
